@@ -10,19 +10,20 @@
      height: 300px;
      color: rgb(10, 10, 10);
      padding-left: 300px;
+     margin: 1px;
      
      border: 1px solid rgb(18, 221, 211);
-     background-color: rgb(18, 221, 211);
+     background-color: rgb(18, 83, 80);
 
 }
 .top{
     flex-basis: 100%;
     width: 600px;
     background-color: white; 
-     height: 850px;
+     height: auto;
      color: rgb(10, 10, 10);
      padding-left: 60px;
-     margin: 10px;
+     margin: 5x;
      border: 1px solid black;
      margin-top: 20px;     
 
@@ -30,10 +31,24 @@
 }
 input{
     width: 500px;
+    background-color: rgb(211, 206, 206);
 }
 #ottiaa{
     height: 50px;
 }
 #praise{
     height: 100px;
+}
+#link a{
+    text-decoration: none;
+    background-color: rgb(253, 238, 238);
+    float: right;
+    display: flex;
+    border-radius: 5px;
+    color: black;
+    margin: 10px;
+
+}
+#otti{
+    width: 150px;
 }
